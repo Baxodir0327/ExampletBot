@@ -1,0 +1,6 @@
+spring:
+    application:
+        name: telegramBotTest
+bot:
+    username: ketmon1234_bot
+    token: 7042109242:AAHIaUojwWQZitaIV1KxwLG27LIG-JScGNU
